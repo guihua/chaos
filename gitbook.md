@@ -31,8 +31,8 @@ Gitbook 常用命令：
 
 `gitbook serve` 命令实际上会首先调用 `gitbook build` 编译书籍，完成以后会打开一个 web 服务器，监听在本地的 4000 端口。
 
-其他命令：
-* `gitbook build`: 会生成相应的 HTML 文件供分发。
+### 其他命令：
+* `gitbook build`: 会生成相应的 HTML 文件供分发
 * `gitbook pdf`: 生成 PDF 文件
 * `gitbook epub`: 生成 epub 文件
 * `gitbook mobi`: 生成 mobi 文件
