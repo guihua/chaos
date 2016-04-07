@@ -8,3 +8,4 @@
 * [一个前端的自我修养](fe.md)
 * [前端面试题](interview.md)
 * [HTML DOM](dom.md)
+* [敏捷开发](scrum.md)
