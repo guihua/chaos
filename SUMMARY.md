@@ -35,9 +35,18 @@
     * [Mongoclient](node/Mongoclient.md)
     * [NPM](node/npm.md)
 * [React.js]
-    * [react培训](react/react.md)
+    * [react](react/react.md)
 * [Redux]
     * [Redux.js](redux/redux.md)
     * [redux词汇表](redux/redux.glossary.md)
 * [Vue.js]
     * [vue.js](vue/vue.md)
+* [JS排序]
+    * [JS排序算法](js-sort/sort.md)
+* [PostCSS]
+    * [PostCSS](/postcss/chapter01.md)
+    * [PostCSS Gulp运用](/postcss/chapter02.md)
+* [WeUI]
+    * [公用模块](/weui/mixin.md)
+    * [Touch事件支持判断](/weui/touch.md)
+    * [页面管理类](/weui/page-manager.md)
