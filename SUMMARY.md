@@ -27,6 +27,7 @@
     * [前端框架Antd](chapters/antd.md)
     * [配置git的SSH Key](chapters/git.config.md)
     * [用NodeList.js 操作 DOM](chapters/nodelist.md)
+    * [HTML5.1](chapters/html5.1.md)
 * [Node]
     * [Gulp任务执行](node/gulp.md)
     * [Node卸载](node/node-remove.md)
@@ -34,6 +35,7 @@
     * [homebrew](node/homebrew.md)
     * [Mongoclient](node/Mongoclient.md)
     * [NPM](node/npm.md)
+    * [权限修改](node/chmod.md)
 * [React.js]
     * [react](react/react.md)
 * [Redux]
@@ -41,6 +43,7 @@
     * [redux词汇表](redux/redux.glossary.md)
 * [Vue.js]
     * [vue.js](vue/vue.md)
+    * [vue2.0](vue/vue.2.0.md)
 * [JS排序]
     * [JS排序算法](js-sort/sort.md)
 * [PostCSS]
