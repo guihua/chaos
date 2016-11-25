@@ -28,6 +28,7 @@
     * [配置git的SSH Key](chapters/git.config.md)
     * [用NodeList.js 操作 DOM](chapters/nodelist.md)
     * [HTML5.1](chapters/html5.1.md)
+    * [WebStorm激活码](chapters/webstorm.md)
 * [Node]
     * [Gulp任务执行](node/gulp.md)
     * [Node卸载](node/node-remove.md)
