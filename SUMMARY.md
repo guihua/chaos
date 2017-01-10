@@ -29,6 +29,9 @@
     * [用NodeList.js 操作 DOM](chapters/nodelist.md)
     * [HTML5.1](chapters/html5.1.md)
     * [WebStorm激活码](chapters/webstorm.md)
+    * [陀螺仪的基础知识](chapters/device.md)
+    * [Node环境安装](chapters/nvm.md)
+    * [浏览器Flash支持性判断](chapters/flash.md)
 * [Node]
     * [Gulp任务执行](node/gulp.md)
     * [Node卸载](node/node-remove.md)

@@ -107,3 +107,34 @@ window.getSelection().addRange(range);
 ```
 
 具体案例请查看：[复制文本](https://jsfiddle.net/5fxtuvvj/)
+
+复制浏览器链接：
+```
+var _copy = function() {
+    jQuery('body').append('<input type="hidden" id="copy">');
+
+    var copyObj = document.getElementById('copy');
+    copyObj.value = window.location.href;
+
+    var toastStr = '<div class="cmui-toast"><div class="cmui-toast-inner"><p>{message}</p></div></div>';
+
+    if (copyObj && copyObj.select) {
+        copyObj.select();
+
+        try {
+            document.execCommand('copy');
+            copyObj.blur();
+            toastStr = toastStr.replace(/{message}/g, '复制成功，可以分享给他人啦！');
+        } catch (err) {
+            alert('please press Ctrl/Cmd+C to copy URI！');
+            toastStr = toastStr.replace(/{message}/g, '请按 Ctrl/Cmd+C 来复制链接分享给他人！');
+        }
+
+        jQuery('body').append(toastStr);
+
+        setTimeout(function() {
+            jQuery('.cmui-toast').remove();
+        }, 2000);
+    }
+};
+```

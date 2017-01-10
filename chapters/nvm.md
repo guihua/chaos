@@ -3,8 +3,10 @@ nvm管理node版本
 
 ### 安装nvm
 ```
-curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
+curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash
 ```
+
+[查看 nvm 版本更新](https://github.com/creationix/nvm)，若有更新，安装最新版本。
 
 完成后，nvm安装在 `~/.nvm` 下。
 
