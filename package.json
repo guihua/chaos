@@ -1,0 +1,17 @@
+{
+  "name": "chaos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "deploy-gh": "GH=1 yarn docs:build && bash ./bin/deploy-gh.sh"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-container": "^2.0.0-beta.8",
+    "vuepress": "^2.0.0-beta.32"
+  },
+  "repository": "https://github.com/guihua/chaos.git",
+  "author": "guihua.pgh <guihuapeng@126.com>",
+  "license": "MIT"
+}

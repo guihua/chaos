@@ -1,12 +1,12 @@
-数组操作
----
-数组是JavaScript中非常重要的一个对象，数组的增、删、改、查操作也是我们日常开发中最常用的操作。
+# 数组操作
 
+数组是 JavaScript 中非常重要的一个对象，数组的增、删、改、查操作也是我们日常开发中最常用的操作。
 
 ## 增加数组项
+
 设定一个数组：
 
-```
+```js
 var myArray = [];
 ```
 
@@ -14,7 +14,7 @@ var myArray = [];
 
 给数组增加数组项，最简单的方法是通过索引值方式：
 
-```
+```js
 var myArray = [];
 
 myArray[0] = 'a';
@@ -28,7 +28,7 @@ console.log(myArray.length); // 4
 
 其次，可以通过为数组的 `length` 赋值给数组增加数组项，这种方法给数组添加的数组项都是 `undefined`:
 
-```
+```js
 var myArray = [];
 
 myArray[0] = 'a'; // 给数组arr添加一个`a`数组项
@@ -42,9 +42,10 @@ console.log(myArray); // ["a", undefined × 3]
 下面介绍数组本身提供的原生方法为数组添加数组项。
 
 ### push()
+
 使用 `push()` 方法可以给数组末尾添加一个或多个数组项。
 
-```
+```js
 var myArray = [1, 2];
 
 myArray.push('a', 'b');
@@ -53,9 +54,10 @@ console.log(myArray); // [1, 2, 'a', 'b']
 ```
 
 ### unshift()
+
 使用 `unshift()` 方法可以在数组的前面添加一个或多个数组项。
 
-```
+```js
 var myArray = [1, 2];
 
 myArray.unshift('a', 'b');
@@ -67,21 +69,22 @@ console.log(myArray); // ['a', 'b', 1, 2]
 
 除此以外，`splice()` 方法也可以添加数组项：
 
-```
+```js
 var myArray = ['a', 'b', 'c', 1, 2];
 myArray.splice(2, 0, 'd', 'c', 'e');
 
 console.log(myArray); // ["a", "b", "d", "c", "e", "c", 1, 2]
 ```
 
-
 ## 删除数组项
-删除数组项常用的方法有pop()和shift()两种方法。
+
+删除数组项常用的方法有 pop()和 shift()两种方法。
 
 ### pop()
+
 `pop()` 方法可以从数组的末尾删除一个数组项。
 
-```
+```js
 var myArray = ['a', 'b', 1, 2];
 
 myArray.pop();
@@ -90,9 +93,10 @@ console.log(myArray); // ['a', 'b', 1]
 ```
 
 ### shift()
+
 `shift()` 方法可以删除数组的第一项。
 
-```
+```js
 var myArray = ['a', 'b', 1, 2];
 
 myArray.shift();
@@ -101,9 +105,10 @@ console.log(myArray); // ['b', 1, 2]
 ```
 
 ### slice()
+
 `slice()` 方法可以给一个数组中删除多个数组项，它不会影响原数组，只会在原数组基础上创一个数组副本。
 
-```
+```js
 var myArray = ['a', 'b', 1, 2, 3, 4];
 var arr2 = myArray.slice(2);
 var arr3 = arr2.slice(2);
@@ -114,9 +119,10 @@ console.log(arr3); // [3, 4]
 ```
 
 ### splice()
+
 `splice()` 方法删除数组项。
 
-```
+```js
 var myArray = ['a', 'b', 1, 2, 3, 4];
 var arr2 = myArray.splice(2, 2);
 
@@ -124,11 +130,11 @@ console.log(myArray); // ['a', 'b', 1, 2, 3, 4]
 console.log(arr2); // [1, 2]
 ```
 
-
 ## 改变数组
+
 数组中 `splice()` 方法是数组中一个强大的方法，其除了可以给数组添加数组项、删除数组项之外，还可以改变一个数组。
 
-```
+```js
 var myArray = [1, 2, 3, 4, 5, 6];
 var arr2 = arr.splice(2, 3, 'a', 'b', 'c');
 
@@ -136,11 +142,11 @@ console.log(myArray); // [1, 2, "a", "b", "c", 6]
 console.log(arr2); // [3, 4, 5]
 ```
 
-
 ## 数组查询
+
 数组查询使用 `slice()` 方法。
 
-```
+```js
 var myArray = [1, 2, 3, 4, 5, 6];
 var arr2 = myArray.slice(-3);
 

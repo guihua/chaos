@@ -1,0 +1,68 @@
+{
+  "chaos": [
+    {
+      "Chapters": [
+        "/chapters/gitbook.md",
+        "/chapters/sublime.md",
+        "/chapters/performance.md",
+        "/chapters/array.md",
+        "/chapters/shuffle.md",
+        "/chapters/fe.md",
+        "/chapters/interview.md",
+        "/chapters/dom.md",
+        "/chapters/scrum.md",
+        "/chapters/bc-rect.md",
+        "/chapters/boom.md",
+        "/chapters/jquery.md",
+        "/chapters/css-spinners.md",
+        "/chapters/component.md",
+        "/chapters/overseas.md",
+        "/chapters/pm.md",
+        "/chapters/js-random.md",
+        "/chapters/chart.md",
+        "/chapters/mac-svn.md",
+        "/chapters/javascript.md",
+        "/chapters/copy.md",
+        "/chapters/resource.md",
+        "/chapters/copy.md",
+        "/chapters/antd.md",
+        "/chapters/git.config.md",
+        "/chapters/nodelist.md",
+        "/chapters/html5.1.md",
+        "/chapters/webstorm.md",
+        "/chapters/device.md",
+        "/chapters/nvm.md",
+        "/chapters/flash.md"
+      ]
+    },
+    {
+      "Node": [
+        "/node/gulp.md",
+        "/node/node-remove.md",
+        "/node/net.md",
+        "/node/homebrew.md",
+        "/node/Mongoclient.md",
+        "/node/npm.md",
+        "/node/chmod.md"
+      ]
+    },
+    {
+      "React.js": ["/react/react.md"]
+    },
+    {
+      "Redux": ["/redux/redux.md", "/redux/redux.glossary.md"]
+    },
+    {
+      "Vue.js": ["/vue/vue.md", "/vue/vue.2.0.md"]
+    },
+    {
+      "JS排序": ["/js-sort/sort.md"]
+    },
+    {
+      "PostCSS": ["/postcss/chapter01.md", "/postcss/chapter02.md"]
+    },
+    {
+      "WeUI": ["/weui/mixin.md", "/weui/touch.md", "/weui/page-manager.md"]
+    }
+  ]
+}
