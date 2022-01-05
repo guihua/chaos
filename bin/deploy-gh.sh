@@ -14,7 +14,7 @@ git add -A
 git commit -m 'deploy'
 
 # 发布到 https://guihua.github.io
-git push -f git@github.com:guihua/guihua.github.io.git master
+git push -f git@github.com:guihua/guihua.github.io.git main
 
 # git push -f git@github.com:guihua/chaos.git master:gh-pages
 

@@ -1,6 +1,6 @@
 {
   "name": "chaos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
