@@ -1,0 +1,1 @@
+const t={key:"v-4b1ca339",path:"/chapters/flash.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Flash \u652F\u6301\u6027\u5224\u65AD",slug:"flash-\u652F\u6301\u6027\u5224\u65AD",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/flash.md"};export{t as data};

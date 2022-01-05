@@ -1,0 +1,1 @@
+const e={key:"v-7a2ccc90",path:"/node/chmod.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6743\u9650\u4FEE\u6539",slug:"\u6743\u9650\u4FEE\u6539",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"node/chmod.md"};export{e as data};

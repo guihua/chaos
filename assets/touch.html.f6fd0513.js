@@ -1,0 +1,1 @@
+const t={key:"v-50f589a4",path:"/weui/touch.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Touch\u4E8B\u4EF6\u652F\u6301\u5224\u65AD",slug:"touch\u4E8B\u4EF6\u652F\u6301\u5224\u65AD",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"weui/touch.md"};export{t as data};

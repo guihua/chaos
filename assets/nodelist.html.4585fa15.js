@@ -1,0 +1,1 @@
+const e={key:"v-4bd138e9",path:"/chapters/nodelist.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u7528 NodeList.js \u64CD\u4F5C DOM",slug:"\u7528-nodelist-js-\u64CD\u4F5C-dom",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/nodelist.md"};export{e as data};

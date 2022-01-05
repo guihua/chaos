@@ -1,0 +1,2 @@
+import{d as e}from"./app.f239267c.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const c={},r=e(`<h2 id="webpack" tabindex="-1"><a class="header-anchor" href="#webpack" aria-hidden="true">#</a> webpack</h2><p>\u5168\u5C40\u5B89\u88C5webpack\uFF1A</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code>npm install webpack -g
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br></div></div>`,3);function s(t,n){return r}var i=a(c,[["render",s]]);export{i as default};

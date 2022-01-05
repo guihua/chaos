@@ -1,0 +1,1 @@
+const e={key:"v-6b1e6eac",path:"/chapters/pm.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"PM\u7684\u804C\u8D23\u548C\u89D2\u8272",slug:"pm\u7684\u804C\u8D23\u548C\u89D2\u8272",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/pm.md"};export{e as data};

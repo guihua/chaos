@@ -1,0 +1,1 @@
+const e={key:"v-da0b0256",path:"/react/webpack.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"webpack",slug:"webpack",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"react/webpack.md"};export{e as data};

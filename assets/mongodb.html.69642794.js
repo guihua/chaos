@@ -1,0 +1,1 @@
+const e={key:"v-36b1e68a",path:"/node/mongodb.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Mac \u4E0B\u7528 brew \u5B89\u88C5 mongodb",slug:"mac-\u4E0B\u7528-brew-\u5B89\u88C5-mongodb",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"node/mongodb.md"};export{e as data};

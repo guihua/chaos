@@ -1,0 +1,1 @@
+const e={key:"v-3dd5c94a",path:"/chapters/IntersectionObserver.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"IntersectionObserver API \u4F7F\u7528\u6559\u7A0B",slug:"intersectionobserver-api-\u4F7F\u7528\u6559\u7A0B",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/IntersectionObserver.md"};export{e as data};

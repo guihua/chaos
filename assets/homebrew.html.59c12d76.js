@@ -1,0 +1,1 @@
+const e={key:"v-6dcf1ef8",path:"/node/homebrew.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Homebrew",slug:"homebrew",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"node/homebrew.md"};export{e as data};

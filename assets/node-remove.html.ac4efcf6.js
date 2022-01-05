@@ -1,0 +1,1 @@
+const e={key:"v-5e279ac4",path:"/node/node-remove.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5378\u8F7DNode",slug:"\u5378\u8F7Dnode",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"node/node-remove.md"};export{e as data};

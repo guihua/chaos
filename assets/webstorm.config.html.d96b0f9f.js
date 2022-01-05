@@ -1,0 +1,1 @@
+const e={key:"v-5d4290ce",path:"/chapters/webstorm.config.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"webstrom \u914D\u7F6E",slug:"webstrom-\u914D\u7F6E",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/webstorm.config.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-b64be042",path:"/react/react-syntax.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"React",slug:"react",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"react/react-syntax.md"};export{t as data};

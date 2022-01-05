@@ -1,0 +1,1 @@
+const t={key:"v-87332416",path:"/js-sort/sort.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"JS\u6392\u5E8F\u7B97\u6CD5",slug:"js\u6392\u5E8F\u7B97\u6CD5",children:[{level:3,title:"\u6269\u5C55\u9605\u8BFB",slug:"\u6269\u5C55\u9605\u8BFB",children:[]}]}],git:{updatedTime:null,contributors:[]},filePathRelative:"js-sort/sort.md"};export{t as data};

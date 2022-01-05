@@ -1,0 +1,1 @@
+const t={key:"v-067affea",path:"/chapters/chart.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"chart",slug:"chart",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/chart.md"};export{t as data};

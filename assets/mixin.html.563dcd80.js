@@ -1,0 +1,1 @@
+const e={key:"v-2f2e872c",path:"/weui/mixin.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"WeUI Less\u516C\u7528\u6A21\u5757",slug:"weui-less\u516C\u7528\u6A21\u5757",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"weui/mixin.md"};export{e as data};

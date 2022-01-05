@@ -1,0 +1,1 @@
+const t={key:"v-d56613ec",path:"/chapters/atom.config.html",title:"Atom \u7F16\u8F91\u5668",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5E38\u7528\u63D2\u4EF6",slug:"\u5E38\u7528\u63D2\u4EF6",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/atom.config.md"};export{t as data};

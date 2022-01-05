@@ -1,0 +1,1 @@
+const e={key:"v-6fc021ae",path:"/node/Mongoclient.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Mongoclient",slug:"mongoclient",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"node/Mongoclient.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-4160694c",path:"/chapters/antd.html",title:"Ant Design",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"chapters/antd.md"};export{t as data};
